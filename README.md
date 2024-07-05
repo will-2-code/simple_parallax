@@ -1,4 +1,5 @@
 Simple parallax background using my own methodology
+
 Use the WASD keys to move around.
 
 Make sure you have naylib installed
